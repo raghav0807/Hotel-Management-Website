@@ -44,6 +44,6 @@ app.use("/api/users", userRoutes);
 // app.use("/api/hotels", hotelRoutes);
 // app.use("/api/my-bookings", bookingRoutes);
 
-app.listen(7000, () => {
-  console.log("server running on localhost:7000");
+app.listen(9000, () => {
+  console.log("server running on localhost:9000");
 });
