@@ -37,5 +37,6 @@ This project is licensed under the MIT License.
 For any inquiries or issues, feel free to reach out:
 
 - **Email**: raghavagiwal20@gmail.com
-- **LinkedIn**: [Raghav Agiwal](https://www.linkedin.com/in/raghavagiwal/)
+
+<!-- Connect with me on LinkedIn: [Raghav Agiwal](https://www.linkedin.com/in/raghavagiwal/) -->
 
